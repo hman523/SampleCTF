@@ -1,4 +1,5 @@
-In file.txt, there are two strings. There's an input and an output.
+There are two files in this directory.
+Start is input, end is the output.
 The input was put into a common hashing function many times.
 Figure out how many. That is the flag.
 
