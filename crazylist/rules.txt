@@ -1,4 +1,0 @@
-The password is no longer than 10 characters and no shorter than 8. [8,10]
-The password will not start with a vowel or a number.
-The password will NOT end with a number.
-
