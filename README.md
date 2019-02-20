@@ -1,7 +1,6 @@
-#SampleCTF
+# Capture the Flag
+Each folder contains a hidden message, which you, as a Linux command-line genius, should be able to solve with a few commands.
 
-Here's a little CTF I designed to practice designing CTFs.
-There are only a few puzzels but some are much harder than others.
-In terms of difficulty, the order goes hiddenmessage, cypher, crazylist,hashfun, encrypt, then otherhidden with hiddenmessage being the easiest.
+The puzzles are ordered in level of difficulty, but you can solve them in any order.
 
 Have fun and good luck!
